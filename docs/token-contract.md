@@ -10,3 +10,4 @@
 - Contract: 0x577688C874B9b81Aa3759CdcE381fb79922e7F27
 > The Current is not currency, but recognition of flow.  
 > Holding CCC signifies presence and contribution within the DAO.
+[https://thirdweb.com/ethereum/0x577688C874B9b81Aa3759CdcE381fb79922e7F27]
