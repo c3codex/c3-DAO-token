@@ -16,7 +16,7 @@
 ---
 
 ## Phase II — The Veil Taken (Community Access)  
-- Gate II allocation: 15% — artists, organizers, educators, and builders enter.  
+- Gate II allocation: 15% — artists, organizersr, educators, and builders enter.  
 - First Codex-aligned initiatives funded (festivals, art mints, local projects).  
 - Treasury begins redistributing ETH → CCC to contributors and initiatives.  
 - NFT Oracle Cards bound to governance thresholds (vote as threshold opening).  
