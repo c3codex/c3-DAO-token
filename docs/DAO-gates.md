@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c3codex/assets/main/CCC-token.PNG" alt="CCC Token Logo" width="200">
+</p>
+
 # ✦ DAO Gates ✦  
 
 The DAO’s Current is released in **Gates**, reflecting mythic descent and ascent.  
@@ -19,3 +23,11 @@ Rewards distributed to active contributors:
 
 ## Ritual Reserve (10%)  
 Sealed until called forth in later epochs.  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c3codex/assets/main/Codexstone_Seal.PNG" alt="Codexstone Seal" width="200">
+</p>
+
+<p align="center"><em>✦ In spark, weave, field, and form — the stone remembers. ✦</em></p>
