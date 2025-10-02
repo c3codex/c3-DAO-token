@@ -41,7 +41,28 @@ The token flows back into community — as recognition, not as debt.
 ## ✦ NFT Access  
 While CCC tokens recognize contribution and flow, **DAO governance access is anchored by NFTs**.  
 - ✦ Holding a DAO NFT grants a vote (threshold-based).  
-- ✦ CCC may be distributed alongside, but never replaces the sovereignty of member presence.  
+- ✦ CCC may be distributed alongside, but never replaces the sovereignty of member presence.
+
+- ---
+
+## ✦ Quick FAQ ✦
+
+**What is the CCC Token?**  
+The CCC (c3 Current Token) is recognition of flow — it seats the Codexstone and carries contributions into remembrance.  
+
+**How many exist?**  
+314,159,365 CCC in total, with allocations for Treasury, Contributors, Gates, and Ritual Reserve.  
+
+**Does holding CCC mean profit?**  
+No. CCC is recognition, not currency. Distributions (ETH, resources) are governed by DAO decisions.  
+
+**How can I receive CCC?**  
+Through contribution — art, teaching, labor, entrusted property, or entry via the ceremonial Gates.  
+
+**Is CCC for governance?**  
+Governance flows through Codex NFTs. CCC signifies presence, access, and remembrance within the DAO.  
+
+📜 [Read the full FAQ →](./docs/FAQ.md)
 
 ---
 
