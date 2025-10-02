@@ -48,7 +48,7 @@ CCC inscribes contribution into the Codex, sustains the DAO, and restores the co
   - **32⅓% → DAO Treasury** (continuity, expansion, technology).  
   - **32⅓% → Contributor Circle** (active builders, volunteers, artists).  
   - **32⅓% → Project / Initiative** (sustainability of the work).  
-  - **3.14% → Legacy Fund** (for Founders’ active bloodline, minimum 4 generations).  
+  - **3.14% → Legacy Fund**  
 
 ---
 
@@ -56,7 +56,7 @@ CCC inscribes contribution into the Codex, sustains the DAO, and restores the co
 - Every contribution (art, labor, land) = **CCC + ETH split + seasonal distribution**.  
 - DAO Treasury sustains continuity.  
 - Contributor Circle rewards active participation.  
-- Seasonal distributions bind cycles to Solstice & Equinox.  
+- Seasonal distributions bind cycles to Solstices'& Equinoxs'.  
 
 ---
 
