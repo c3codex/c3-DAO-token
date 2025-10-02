@@ -3,9 +3,22 @@
 **Repository for the c3 DAO Token (CCC), the Current of c3 Community Partners DAO.**  
 This repo contains documentation, contracts, and symbolic assets for the CCC token, which flows through the c3 DAO as a means of recognition, access, and continuity.  
 
-![Codexstone Seal](../assets/Codexstone_Seal.PNG?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c3codex/assets/main/CCC-token.PNG" alt="CCC Token Logo" width="200">
+</p>
 
 ---
+
+## ✦ Ledger Note ✦  
+Contract verification and explorer link:  
+- [View on BaseScan](https://basescan.org/address/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)  
+- [## ✦ Ledger Note ✦  
+Contract verification and explorer link:  
+- [View on BaseScan](https://basescan.org/address/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)  
+- [View on thirdweb](https://thirdwe.com/base/## ✦ Ledger Note ✦  
+Contract verification and explorer link:  
+- [View on BaseScan](https://basescan.org/address/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)  
+- [View on thirdweb](https://thirdweb.com/base/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)    View on thirdweb](https://thirdweb.com/base/0xYOURCONTRACTADDRESSHERE)  
 
 ## ✦ Purpose  
 The CCC token is not a speculative asset — it is a **Current**.  
