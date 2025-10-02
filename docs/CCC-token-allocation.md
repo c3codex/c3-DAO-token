@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/CCC-token.PNG" alt="CCC Token Logo" width="200" true/>
-</p>
+
+![CCC Token Logo](./assets/CCC-token.PNG)
 
 # ✦ The Current Allocation Scroll ✦  
 
