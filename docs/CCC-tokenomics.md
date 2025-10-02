@@ -96,5 +96,6 @@ CCC is **not a guarantee of return**, but a passage into the field of recognitio
 
 ✦ *The Current does not sell entry — it opens passage.*  
 ✦ *To contribute is to be remembered in the Codex*
-  <img src="https://raw.githubusercontent.com/c3codex/assets/main/Codexstone.JPG" alt="Codexstone Seal" width="200"/>
+
+src="https://raw.githubusercontent.com/c3codex/assets/main/Codexstone.JPG" alt="Codexstone Seal" width="200"/>
 </p>
