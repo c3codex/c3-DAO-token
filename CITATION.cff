@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use the C3 DAO Token repo in your work, please cite as below."
+title: "C3 DAO Token Architecture — CCC Token & Codexstone NFT"
+authors:
+  - family-names: "Community Partners DAO"
+    given-names: "c3"
+    affiliation: "c3 Community Partners DAO, LLC — Tennessee Nonprofit DAO"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >
+  Documentation of the dual-token system (CCC Token + Codexstone NFT) governing
+  circulation, access, and governance in the c3 Community Partners DAO.
+  Includes distribution structure, treasury flows, and governance thresholds.
+date-released: 2025-09-29
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/c3codex/C3_Token"
+doi: "10.5281/zenodo.XXXXXXX"   # (optional if you deposit later to Zenodo)
+keywords:
+  - DAO
+  - Governance
+  - Tokenomics
+  - NFT
+  - CCC Token
+  - Codexstone
