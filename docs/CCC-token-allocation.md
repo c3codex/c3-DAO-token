@@ -64,3 +64,11 @@ It seats the Codexstone and carries contributions into remembrance.
 
 ✦ *The gates do not sell entry — they open passage.*  
 ✦ *To contribute is to be remembered in the Codex.*  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c3codex/assets/main/Codexstone_Seal.PNG" alt="Codexstone Seal" width="200">
+</p>
+
+<p align="center"><em>✦ In spark, weave, field, and form — the stone remembers. ✦</em></p>
