@@ -4,6 +4,33 @@ All notable changes to the **c3 DAO Token repository** will be documented in thi
 This project adheres to semantic versioning principles where possible.
 
 ---
+# CHANGELOG — c3 DAO Token (CCC)
+
+All notable changes to this repository are documented here.  
+Format: YYYY-MM-DD — short description (files touched)
+
+---
+
+## 2025-10-02
+- Align ETH distribution policy with 32⅓ / 32⅓ / 32⅓ + 3.14% Legacy and Standard-of-Living priority.  
+  *docs/distributions.md*
+- Clarify that holding **CCC** does not guarantee ETH distributions; seasonal thresholds & proposals govern releases.  
+  *docs/distributions.md, docs/faq.md*
+- Normalize docs filenames to hyphenated lowercase; update internal links.  
+  *docs/*
+
+## 2025-10-01
+- Add contract details (Base / ERC-20) and checksum address block.  
+  *docs/token-contract.md*
+- Add security notes (mint authority, pausing, multisig recommendations, revoke guidance).  
+  *docs/security.md*
+
+## 2025-09-30
+- Initial docs set: tokenomics, allocation, gates, usage, roadmap, FAQ, template.  
+  *docs/tokenomics.md, docs/token-allocation.md, docs/dao-gates.md, docs/usage.md, docs/token-roadmap.md, docs/faq.md, docs/template.md*
+- Repository bootstrap with top-level metadata.  
+  *README.md, LICENSE, CITATION.cff, CONTRIBUTING.md*
+
 
 ## [0.1.0] — 2025-10-01
 ### Added
