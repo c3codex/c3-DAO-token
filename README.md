@@ -48,18 +48,14 @@ While CCC tokens recognize contribution and flow, **DAO governance access is anc
 ## ✦ Structure of this Repo  
 ```plaintext
 c3-dao-token/
-├── README.md              # This file
-├── CHANGELOG.md           # Version history
-├── docs/                  # Documentation
-│   ├── token-overview.md
-│   ├── tokenomics.md
-│   ├── distribution-gates.md
-│   ├── nft-access.md
-│   └── codex-seal.md
-├── assets/                # Token visuals
-│   ├── token-logo.png
-│   ├── Codexstone-Seal.png
-│   └── gate-symbols/
-└── contracts/             # Solidity contracts
-    ├── ccc-token.sol
-    └── nft-access.sol
+├── docs/
+│   ├── ccc-token-allocation.md
+│   ├── dao-gates.md
+│   ├── token-contract.md
+│   ├── treasury-distribution.md
+│   ├── template.md
+│
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── CITATION.cff
+├── README.md
