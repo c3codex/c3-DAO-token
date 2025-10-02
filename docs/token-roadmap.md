@@ -1,7 +1,9 @@
 # ✦ CCC Token Roadmap ✦  
 *A living scroll of thresholds and unfolding currents*  
 
-![CCC Token](https://raw.githubusercontent.com/<c3codex>/<assets-repo>/main/CCC-token.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c3codex/assets/main/CCC-token.PNG" alt="CCC Token Logo" width="200">
+</p>
 
 ---
 
