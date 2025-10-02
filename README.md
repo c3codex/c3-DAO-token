@@ -10,15 +10,12 @@ This repo contains documentation, contracts, and symbolic assets for the CCC tok
 ---
 
 ## ✦ Ledger Note ✦  
+
 Contract verification and explorer link:  
 - [View on BaseScan](https://basescan.org/address/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)  
-- [## ✦ Ledger Note ✦  
-Contract verification and explorer link:  
-- [View on BaseScan](https://basescan.org/address/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)  
-- [View on thirdweb](https://thirdwe.com/base/## ✦ Ledger Note ✦  
-Contract verification and explorer link:  
-- [View on BaseScan](https://basescan.org/address/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)  
-- [View on thirdweb](https://thirdweb.com/base/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)    View on thirdweb](https://thirdweb.com/base/0xYOURCONTRACTADDRESSHERE)  
+- [View on thirdweb](https://thirdweb.com/base/0x577688C874B9b81Aa3759CdcE381fb79922e7F27)## ✦ Ledger Note ✦  
+  
+ 
 
 ## ✦ Purpose  
 The CCC token is not a speculative asset — it is a **Current**.  
