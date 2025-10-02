@@ -74,4 +74,4 @@ This is the DAO’s movement through time.
 
 ---
 
-![Codexstone Seal](https://raw.githubusercontent.com/<c3codex>/<assets-repo>/main/Codexstone_Seal.PNG)
+![](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG)
