@@ -3,7 +3,7 @@
 **Repository for the c3 DAO Token (CCC), the Current of c3 Community Partners DAO.**  
 This repo contains documentation, contracts, and symbolic assets for the CCC token, which flows through the c3 DAO as a means of recognition, access, and continuity.  
 
-![Codexstone Seal](../assets/Codexstone-Seal.PNG?raw=true)
+![Codexstone Seal](../assets/Codexstone_Seal.PNG?raw=true)
 
 ---
 
