@@ -67,16 +67,22 @@ Governance flows through Codex NFTs. CCC signifies presence, access, and remembr
 ---
 
 ## ✦ Structure of this Repo  
-```plaintext
+
 c3-dao-token/
-├── docs/
-│   ├── ccc-token-allocation.md
-│   ├── dao-gates.md
-│   ├── token-contract.md
-│   ├── treasury-distribution.md
-│   ├── template.md
-│
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── CITATION.cff
-├── README.md
+├─ README.md
+├─ LICENSE
+├─ CITATION.cff
+├─ CONTRIBUTING.md
+├─ CHANGELOG.md        ← add/update this
+└─ docs/
+   ├─ README.md
+   ├─ token-contract.md
+   ├─ tokenomics.md
+   ├─ distributions.md
+   ├─ dao-gates.md
+   ├─ token-allocation.md
+   ├─ token-roadmap.md
+   ├─ security.md
+   ├─ faq.md
+   ├─ usage.md
+   └─ template.md
